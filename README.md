@@ -1,9 +1,3 @@
-Got it ✅ You don’t want a **plain-text looking README**, you want it to look **engaging, professional, with symbols, headings, and some color/emojis for readability** – like how top GitHub projects present.
-
-Here’s your **final polished README.md** version:
-
----
-
 # 🌐 OrangeHRM Manual Testing Project
 
 ## 📌 Project Overview
