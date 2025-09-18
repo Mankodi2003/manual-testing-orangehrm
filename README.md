@@ -1,3 +1,19 @@
+<!-- status & quick stats -->
+![Project Status](https://img.shields.io/badge/status-Completed-brightgreen)
+![Test Cases](https://img.shields.io/badge/Test%20Cases-126-blue)
+![Passed](https://img.shields.io/badge/Passed-110-green)
+![Failed](https://img.shields.io/badge/Failed-16-red)
+![Defects](https://img.shields.io/badge/Defects-16-red)
+
+<!-- license -->
+![License](https://img.shields.io/badge/license-MIT-orange)
+
+<!-- GitHub live stats (replace placeholders) -->
+![Open Issues](https://img.shields.io/github/issues/Mankodi2003/manual-testing-orangehrm)
+![Forks](https://img.shields.io/github/forks/Mankodi2003/manual-testing-orangehrm)
+![Stars](https://img.shields.io/github/stars/Mankodi2003/manual-testing-orangehrm)
+
+
 # 🌐 OrangeHRM Manual Testing Project
 
 ## 📌 Project Overview
